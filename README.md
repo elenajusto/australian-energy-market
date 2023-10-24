@@ -1,5 +1,5 @@
 # australian-energy-market
-Exploring the nature and state of the Australian Energy Market with regards to the transition from Non-Renewable Energy sources to Renewable Energy Sources.
+Exploring the nature of the Australian Energy Market with regards to the transition from Non-Renewable Energy sources to Renewable Energy Sources.
 
 
 <h3>StateOfEnergyExploration.ipynb </h3>
