@@ -6,6 +6,7 @@ Exploring the nature and state of the Australian Energy Market with regards to t
 
 This notebook visualises the sources of energy production (renewable vs non renewable sources) from the table provided by the
 Department of Climate Change, Energy, the Environment and Water (DCCEEW).
+
 Link to the dataset: https://www.energy.gov.au/publications/australian-energy-statistics-table-o-electricity-generation-fuel-type-2020-21-and-2021
 
 
